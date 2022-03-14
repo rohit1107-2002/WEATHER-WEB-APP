@@ -1,14 +1,14 @@
 # WEATHER-WEB-APP
 
-Weather forecast web app that provides details about the temperature and weather condition.
+- Weather forecast web app that provides details about the **temperature and weather condition**.
 
-It uses APIs to fetch forecast data from the OpenWeatherMap API. 
+- It uses **APIs** to fetch forecast data from the **OpenWeatherMap API**. 
 
-LINK : https://rohit1107-2002.github.io/WEATHER-WEB-APP/
+- **LINK** : https://rohit1107-2002.github.io/WEATHER-WEB-APP/
 
 # 
 
-HTML , CSS , JAVASCRIPT
+- **HTML , CSS , JAVASCRIPT**
 
 #
 # SCREENSHOTS
