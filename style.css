@@ -7,8 +7,8 @@
 
 body
 {
-    height: 100px;
-    background-color: #4c4d4e;
+    height:100vh;
+    background-color: #b2d6fa;
 }
 
 #search-form
@@ -49,7 +49,7 @@ body
     margin: 8px 0;
     padding: 8px 0;
     border-bottom: 3px solid #ff6768;
-    color: rgb(247, 241, 241);
+    color: rgb(43, 12, 12);
     outline: none;
     background: none;
 }
@@ -108,7 +108,7 @@ main
 {
     padding: 20px;
     margin-top: 30px;
-    background-color: #6b778d;
+    background-color: #6b6acc;
     border-radius: 25px;
     width: 380px;
     height: 380px;
@@ -124,11 +124,11 @@ main
     position: fixed;
     left:0;  
     bottom:0;
-    width:100%;
+    width:100vw;
     
-    background-color: #0a273f;
+    background-color: #aff5fc;
     text-align: center;
-    color: rgb(187, 179, 179);
+    color: rgb(27, 24, 24);
     font-size: 1rem; 
     /*right: 0px; */
 
